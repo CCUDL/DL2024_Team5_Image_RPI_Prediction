@@ -1,3 +1,6 @@
 ./水質檢測/*
 .DS_Store
 .ipynb_checkpoints
+/水質檢測/
+/model.h5
+model.h5
