@@ -30,7 +30,7 @@
 1. requirements.txt: 用於安裝必要套件的檔案
 2. model_train.ipynb: 用於訓練模型的 Jupyter Notebook 檔案
 3. model_evalu.ipynb: 用於評估模型的 Jupyter Notebook 檔案
-4. ./水質檢測/ : 包含了訓練模型所需的資料集
+4. ./水質檢測/ : 包含了訓練模型所需的資料集 (請參考下方的資料集說明)
 
 ## 資料集
 
