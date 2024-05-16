@@ -14,15 +14,14 @@
 
 1. git clone 這個專案
 
-```git clone https://github.com/CCUDL/Water.git```
+```git clone https://github.com/CCUDL/DL2024_Team5_Image_RPI_Prediction.git```
 
 2. 安裝必要的套件
 
 ```pip install -r requirements.txt```
 
 3. 執行model_train.ipynb 以訓練模型
-4. 如需要現成的模型，可以直接下載[這個檔案]()
-
+4. 如需要現成的模型，可以直接到google drive這邊下載[這個檔案](https://drive.google.com/file/d/1qK3SpwMvajhWQjhCCl_oHOZLKKIbU5hV/view?usp=sharing)
 
 
 ## 檔案說明
@@ -51,4 +50,4 @@ RPI值為DO（mg/L）、BOD5（mg/L）、NH3-N（mg/L）、SS（mg/L）共4項�
 
 ## License
 
-[MIT](https://github.com/CCUDL/Water?tab=MIT-1-ov-file#readme)
+[MIT](https://github.com/CCUDL/DL2024_Team5_Image_RPI_Prediction?tab=MIT-1-ov-file#readme)
