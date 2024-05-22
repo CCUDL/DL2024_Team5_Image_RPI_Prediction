@@ -4,3 +4,5 @@
 /水質檢測/
 /model.h5
 model.h5
+/RPI_Paper
+*.keras
