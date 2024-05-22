@@ -43,7 +43,7 @@
 包含酸鹼值、DO、COD、BOD、SS、NH3-N、TP、TN等數據，
 我們將這些數據轉換成RPI值，
 根據[全國環境水質監測資訊網](https://wq.moenv.gov.tw/EWQP/zh/Encyclopedia/NounDefinition/Pedia_37.aspx)對於RPI值的定義:
-RPI值為DO（mg/L）、BOD5（mg/L）、NH3-N（mg/L）、SS（mg/L）共4項指標的平均值。
+RPI值為DO（mg/L）、BOD5（mg/L）、NH3-N（mg/L）、SS（mg/L）共4項指標的點數取平均值。
 
 此專案將影片的每一幀切割成圖片作為資料集，並將次空拍所測得的RPI值作為標籤，
 利用CNN模型來預測該張圖片的RPI值。
