@@ -4,6 +4,8 @@
 /水質檢測/
 /model.h5
 model.h5
+/*.h5
+*.h5
 /RPI_Paper
 *.keras
 /Nio*
