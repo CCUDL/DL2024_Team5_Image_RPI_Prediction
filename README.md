@@ -27,12 +27,10 @@
 ## 檔案說明
 
 1. requirements.txt: 用於安裝必要套件的檔案
-2. model_evalu.ipynb: 用於訓練+評估模型的 Jupyter Notebook 檔案
-3. model_Kfold.ipynb: 使用大模型(11,132,165 params)加上kfold預測
-4. model_small_Kfold.ipynb: 使用小模型(2,783,365 params)加上kfold預測
-5. model_small_2_Kfold.ipynb: 使用小模型(4,037 params)加上kfold預測
-6. model_DO_eval.ipynb: 使用照片預測DO溶氧量值 (失敗) (會在報告中補上原因)
-7. ./水質檢測/ : 包含了訓練模型所需的資料集 (請參考下方的資料集說明)
+2. model_evalu_big.ipynb: 訓練+評估的原始模型 (1,391,387 params)
+3. model_small_3_Kfold.ipynb: 使用小模型(45,233 params)加上kfold預測
+4. model_DO_eval.ipynb: 使用照片預測DO溶氧量值 (失敗) (會在報告時補上原因)
+5. ./水質檢測/ : 包含了訓練模型所需的資料集 (請參考下方的資料集說明)
 
 ## 資料集
 
