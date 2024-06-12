@@ -21,7 +21,7 @@
 ```pip install -r requirements.txt```
 
 3. 執行model_train.ipynb 以訓練模型
-4. 如需要現成的模型，可以直接到google drive這邊下載[這個檔案](https://drive.google.com/file/d/1qK3SpwMvajhWQjhCCl_oHOZLKKIbU5hV/view?usp=sharing)
+4. 如需要現成的模型，可以直接到google drive這邊下載[這個檔案](https://drive.google.com/drive/folders/1VmjxJBZq4EWeF1DbwaG69SJP9KvbkIUb?usp=sharing)
 
 
 ## 檔案說明
